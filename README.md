@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.imgur.com/5M0KXoJ.png" width="800">
+  <img src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzIzOTY0ODIsIm5iZiI6MTc3MjM5NjE4MiwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzAxVDIwMTYyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFkMDY5MjIyZDU2NzlkMWJiMWQ2M2M3MGYyOTNhZWRiZDcxMDYxMjc2NDgwMzllNWQ1YTE2MTQzNDA5NjNkMTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.agld-zd5k30oPAuTps2sqCgZngjdnPOTPeLKlVVxdUI" width="800">
 </p>
 
 <h1 align="center">Hi there! 👋 I'm Sukalyan Adak</h1>
