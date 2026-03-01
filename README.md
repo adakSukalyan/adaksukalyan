@@ -1,6 +1,5 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://i.imgur.com/5M0KXoJ.png" width="800">
+<<p align="center">
+  <img src="https://raw.githubusercontent.com/khalby786/khalby786/master/assets/banner.png" width="800">
 </p>
 
 <h1 align="center">Hi there! 👋 I'm Sukalyan Adak</h1>
