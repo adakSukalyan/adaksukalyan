@@ -88,7 +88,8 @@ I love exploring how data can solve real-world problems and continuously improvi
 </p>
 
 ---
-# 🐍 Contribution Snake <p align="center"> <img src="https://raw.githubusercontent.com/adakSukalyan/adakSukalyan/output/snake.svg" alt="Snake animation"/> </p> ---
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adakSukalyan/adakSukalyan/output/snake.svg" alt="Snake animation" />
+</p>
 ⭐ **Thanks for visiting my GitHub profile!**  
 Let’s collaborate and build something amazing! 🚀
